@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'GALLEDIS Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('../GALLEDIS'), format('woff');
+    }
+h1{
+    font-family:  'GALLEDIS Regular','helvetica','Mechanismo Regular';
+    font-weight: 800;
+    font-size: 300px;
+    color: yellow;
+}
